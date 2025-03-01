@@ -1,6 +1,6 @@
 ****Grocery Store Application****
 
-Welcome to the Fresh Grover's Grocery Store Application Platform!
+Welcome to the Fresh Grocers' Grocery Store Application Platform!
 
 Grocery Store Application using HTML, CSS, JavaScript, Servlets and MySQL.
 
